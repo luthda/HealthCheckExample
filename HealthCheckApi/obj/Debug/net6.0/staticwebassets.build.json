@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VHeRsr5kelu7Rmk/0c70spx8mI5CQatnu6Z16k/X2qo=",
+  "Source": "HealthCheckApi",
+  "BasePath": "_content/HealthCheckApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
